@@ -1,0 +1,14 @@
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\obj\Debug\net8.0\Task2_StudentTeacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\obj\Debug\net8.0\Task2_StudentTeacher.AssemblyInfoInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\obj\Debug\net8.0\Task2_StudentTeacher.AssemblyInfo.cs
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\obj\Debug\net8.0\Task2_StudentTeacher.csproj.CoreCompileInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\bin\Debug\net8.0\Task2_StudentTeacher.exe
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\bin\Debug\net8.0\Task2_StudentTeacher.deps.json
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\bin\Debug\net8.0\Task2_StudentTeacher.runtimeconfig.json
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\bin\Debug\net8.0\Task2_StudentTeacher.dll
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\bin\Debug\net8.0\Task2_StudentTeacher.pdb
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\obj\Debug\net8.0\Task2_StudentTeacher.dll
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\obj\Debug\net8.0\refint\Task2_StudentTeacher.dll
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\obj\Debug\net8.0\Task2_StudentTeacher.pdb
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\obj\Debug\net8.0\Task2_StudentTeacher.genruntimeconfig.cache
+C:\Users\kshirish\Desktop\Task_Project\Task2_StudentTeacher\Task2_StudentTeacher\obj\Debug\net8.0\ref\Task2_StudentTeacher.dll
