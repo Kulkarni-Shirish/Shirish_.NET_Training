@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kshirish\\Desktop\\Task_Project\\Task2_StudentTeacher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4E8B18-9B0C-D69B-3259-21A7AECA016F}|..\\Task3_Vehicle\\Task3_Vehicle\\Task3_Vehicle.csproj|c:\\users\\kshirish\\desktop\\task_project\\task3_vehicle\\task3_vehicle\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4E8B18-9B0C-D69B-3259-21A7AECA016F}|..\\Task3_Vehicle\\Task3_Vehicle\\Task3_Vehicle.csproj|c:\\users\\kshirish\\desktop\\task_project\\task3_vehicle\\task3_vehicle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4E8B18-9B0C-D69B-3259-21A7AECA016F}|..\\Task3_Vehicle\\Task3_Vehicle\\Task3_Vehicle.csproj|c:\\users\\kshirish\\desktop\\task_project\\task3_vehicle\\task3_vehicle\\ivehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\Task3_Vehicle\\Task3_Vehicle\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task3_Vehicle\\Task3_Vehicle\\Program.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\Task3_Vehicle\\Task3_Vehicle\\Program.cs",
+              "RelativeToolTip": "..\\Task3_Vehicle\\Task3_Vehicle\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:28:07.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\Task3_Vehicle\\Task3_Vehicle\\Car.cs",
+              "RelativeDocumentMoniker": "..\\Task3_Vehicle\\Task3_Vehicle\\Car.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\Task3_Vehicle\\Task3_Vehicle\\Car.cs",
+              "RelativeToolTip": "..\\Task3_Vehicle\\Task3_Vehicle\\Car.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:26:48.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\Task3_Vehicle\\Task3_Vehicle\\IVehiculo.cs",
+              "RelativeDocumentMoniker": "..\\Task3_Vehicle\\Task3_Vehicle\\IVehiculo.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\Task3_Vehicle\\Task3_Vehicle\\IVehiculo.cs",
+              "RelativeToolTip": "..\\Task3_Vehicle\\Task3_Vehicle\\IVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:23:52.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

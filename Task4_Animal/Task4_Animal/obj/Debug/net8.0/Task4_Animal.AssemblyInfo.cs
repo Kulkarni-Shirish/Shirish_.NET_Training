@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task4_Animal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f6ea9241d4df224c15f9281b80c830172abee71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+124f576241a1446ecc1371187185398cb8ec2e8a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task4_Animal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task4_Animal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
