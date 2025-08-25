@@ -1,0 +1,15 @@
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\bin\Debug\net8.0\Task4_Animal.exe
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\bin\Debug\net8.0\Task4_Animal.deps.json
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\bin\Debug\net8.0\Task4_Animal.runtimeconfig.json
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\bin\Debug\net8.0\Task4_Animal.dll
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\bin\Debug\net8.0\Task4_Animal.pdb
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\obj\Debug\net8.0\Task4_Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\obj\Debug\net8.0\Task4_Animal.AssemblyInfoInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\obj\Debug\net8.0\Task4_Animal.AssemblyInfo.cs
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\obj\Debug\net8.0\Task4_Animal.csproj.CoreCompileInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\obj\Debug\net8.0\Task4_Animal.sourcelink.json
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\obj\Debug\net8.0\Task4_Animal.dll
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\obj\Debug\net8.0\refint\Task4_Animal.dll
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\obj\Debug\net8.0\Task4_Animal.pdb
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\obj\Debug\net8.0\Task4_Animal.genruntimeconfig.cache
+C:\Users\kshirish\Desktop\Task_Project\Task4_Animal\Task4_Animal\obj\Debug\net8.0\ref\Task4_Animal.dll

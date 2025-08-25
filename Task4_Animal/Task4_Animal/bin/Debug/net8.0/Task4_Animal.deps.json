@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Task4_Animal/1.0.0": {
+        "runtime": {
+          "Task4_Animal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task4_Animal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
