@@ -1,0 +1,15 @@
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\obj\Debug\net8.0\Task5_EvenNumbersArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\obj\Debug\net8.0\Task5_EvenNumbersArray.AssemblyInfoInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\obj\Debug\net8.0\Task5_EvenNumbersArray.AssemblyInfo.cs
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\obj\Debug\net8.0\Task5_EvenNumbersArray.csproj.CoreCompileInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\obj\Debug\net8.0\Task5_EvenNumbersArray.sourcelink.json
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\bin\Debug\net8.0\Task5_EvenNumbersArray.exe
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\bin\Debug\net8.0\Task5_EvenNumbersArray.deps.json
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\bin\Debug\net8.0\Task5_EvenNumbersArray.runtimeconfig.json
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\bin\Debug\net8.0\Task5_EvenNumbersArray.dll
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\bin\Debug\net8.0\Task5_EvenNumbersArray.pdb
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\obj\Debug\net8.0\Task5_EvenNumbersArray.dll
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\obj\Debug\net8.0\refint\Task5_EvenNumbersArray.dll
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\obj\Debug\net8.0\Task5_EvenNumbersArray.pdb
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\obj\Debug\net8.0\Task5_EvenNumbersArray.genruntimeconfig.cache
+C:\Users\kshirish\Desktop\Task_Project\Task5_EvenNumbersArray\Task5_EvenNumbersArray\obj\Debug\net8.0\ref\Task5_EvenNumbersArray.dll
