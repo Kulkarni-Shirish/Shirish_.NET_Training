@@ -1,0 +1,15 @@
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\bin\Debug\net8.0\Task6_IsNumberCheck.exe
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\bin\Debug\net8.0\Task6_IsNumberCheck.deps.json
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\bin\Debug\net8.0\Task6_IsNumberCheck.runtimeconfig.json
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\bin\Debug\net8.0\Task6_IsNumberCheck.dll
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\bin\Debug\net8.0\Task6_IsNumberCheck.pdb
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\obj\Debug\net8.0\Task6_IsNumberCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\obj\Debug\net8.0\Task6_IsNumberCheck.AssemblyInfoInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\obj\Debug\net8.0\Task6_IsNumberCheck.AssemblyInfo.cs
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\obj\Debug\net8.0\Task6_IsNumberCheck.csproj.CoreCompileInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\obj\Debug\net8.0\Task6_IsNumberCheck.sourcelink.json
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\obj\Debug\net8.0\Task6_IsNumberCheck.dll
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\obj\Debug\net8.0\refint\Task6_IsNumberCheck.dll
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\obj\Debug\net8.0\Task6_IsNumberCheck.pdb
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\obj\Debug\net8.0\Task6_IsNumberCheck.genruntimeconfig.cache
+C:\Users\kshirish\Desktop\Task_Project\Task6_IsNumberCheck\Task6_IsNumberCheck\obj\Debug\net8.0\ref\Task6_IsNumberCheck.dll
