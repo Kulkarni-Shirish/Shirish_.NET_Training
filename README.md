@@ -12,6 +12,9 @@ My .NET Training Tasks
 ##Task4-Animal
 **Main file:Program.cs
 **Description:**Demonstrates inheritance and polymorphism using an 'Animal' and derived classes with their specific behaviors.
+##Task5-EvenNumbersArray
+**Main File:Program.cs
+**Description:**Read 10 Integers into an Array and prints only the even numbers from it.
 ##Upcoming Tasks
 I will add new tasks in the same repository 
 
