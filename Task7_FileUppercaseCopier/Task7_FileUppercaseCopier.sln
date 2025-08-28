@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task7_FileUppercaseCopier", "Task7_FileUppercaseCopier\Task7_FileUppercaseCopier.csproj", "{E2BA956B-BF51-4BD9-A89D-BC585C2567EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2BA956B-BF51-4BD9-A89D-BC585C2567EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BA956B-BF51-4BD9-A89D-BC585C2567EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BA956B-BF51-4BD9-A89D-BC585C2567EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BA956B-BF51-4BD9-A89D-BC585C2567EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9039DACE-9F3F-4D04-B1B9-A994B3D2466B}
+	EndGlobalSection
+EndGlobal

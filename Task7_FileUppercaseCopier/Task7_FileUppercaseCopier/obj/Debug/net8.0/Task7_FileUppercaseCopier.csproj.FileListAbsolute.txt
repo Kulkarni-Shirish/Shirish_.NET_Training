@@ -1,0 +1,16 @@
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\bin\Debug\net8.0\Task7_FileUppercaseCopier.exe
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\bin\Debug\net8.0\Task7_FileUppercaseCopier.deps.json
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\bin\Debug\net8.0\Task7_FileUppercaseCopier.runtimeconfig.json
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\bin\Debug\net8.0\Task7_FileUppercaseCopier.dll
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\bin\Debug\net8.0\Task7_FileUppercaseCopier.pdb
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\obj\Debug\net8.0\Task7_FileUppercaseCopier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\obj\Debug\net8.0\Task7_FileUppercaseCopier.AssemblyInfoInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\obj\Debug\net8.0\Task7_FileUppercaseCopier.AssemblyInfo.cs
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\obj\Debug\net8.0\Task7_FileUppercaseCopier.csproj.CoreCompileInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\obj\Debug\net8.0\Task7_FileUppercaseCopier.sourcelink.json
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\obj\Debug\net8.0\Task7_FileUppercaseCopier.dll
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\obj\Debug\net8.0\refint\Task7_FileUppercaseCopier.dll
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\obj\Debug\net8.0\Task7_FileUppercaseCopier.pdb
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\obj\Debug\net8.0\Task7_FileUppercaseCopier.genruntimeconfig.cache
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\obj\Debug\net8.0\ref\Task7_FileUppercaseCopier.dll
+C:\Users\kshirish\Desktop\Task_Project\Task7_FileUppercaseCopier\Task7_FileUppercaseCopier\bin\Debug\net8.0\input.txt
