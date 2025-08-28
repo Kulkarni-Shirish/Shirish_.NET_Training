@@ -15,6 +15,15 @@ My .NET Training Tasks
 ##Task5-EvenNumbersArray
 **Main File:Program.cs
 **Description:**Read 10 Integers into an Array and prints only the even numbers from it.
+##Task6- IsNumber
+**Main File:**Program.cs
+**Description: Program with a function 'IsNumber' that takes a parameter from user and checks if input is num or not.
+##Task7 - FileUpperCase
+**Main file: **Program.cs
+**Description:**Reads a text file and makes a copy of it in another file by converting all lower to upperCase.
+##Task8 - ArrayListPeople
+**Main File:**Program.cs,Person.cs
+**Description:Program using an 'ArrayList' to store people. Defines a 'Person' class with 'Name' and 'Age', overrides 'ToString()', takes inputs for three people, and print their details.
 ##Upcoming Tasks
 I will add new tasks in the same repository 
 
