@@ -1,0 +1,15 @@
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\obj\Debug\net8.0\Task8_ArrayListPeople.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\obj\Debug\net8.0\Task8_ArrayListPeople.AssemblyInfoInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\obj\Debug\net8.0\Task8_ArrayListPeople.AssemblyInfo.cs
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\obj\Debug\net8.0\Task8_ArrayListPeople.csproj.CoreCompileInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\obj\Debug\net8.0\Task8_ArrayListPeople.sourcelink.json
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\bin\Debug\net8.0\Task8_ArrayListPeople.exe
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\bin\Debug\net8.0\Task8_ArrayListPeople.deps.json
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\bin\Debug\net8.0\Task8_ArrayListPeople.runtimeconfig.json
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\bin\Debug\net8.0\Task8_ArrayListPeople.dll
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\bin\Debug\net8.0\Task8_ArrayListPeople.pdb
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\obj\Debug\net8.0\Task8_ArrayListPeople.dll
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\obj\Debug\net8.0\refint\Task8_ArrayListPeople.dll
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\obj\Debug\net8.0\Task8_ArrayListPeople.pdb
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\obj\Debug\net8.0\Task8_ArrayListPeople.genruntimeconfig.cache
+C:\Users\kshirish\Desktop\Task_Project\Task8_ArrayListPeople\Task8_ArrayListPeople\obj\Debug\net8.0\ref\Task8_ArrayListPeople.dll
