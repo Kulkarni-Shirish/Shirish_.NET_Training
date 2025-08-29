@@ -24,6 +24,8 @@ My .NET Training Tasks
 ##Task8 - ArrayListPeople
 **Main File:**Program.cs,Person.cs
 **Description:Program using an 'ArrayList' to store people. Defines a 'Person' class with 'Name' and 'Age', overrides 'ToString()', takes inputs for three people, and print their details.
+##Task 9 - MultiplicationWithoutOperator
+**Description:Asks the user for two integer numbers and displays their multiplication, without using * Operator.
 ##Upcoming Tasks
 I will add new tasks in the same repository 
 
