@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kshirish\\Desktop\\Task_Project\\MultiplicationWithoutOperator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2518EDAA-44E5-420F-B358-50FA293CC466}|MultiplicationWithoutOperator\\MultiplicationWithoutOperator.csproj|c:\\users\\kshirish\\desktop\\task_project\\multiplicationwithoutoperator\\multiplicationwithoutoperator\\consecutivesummultiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2518EDAA-44E5-420F-B358-50FA293CC466}|MultiplicationWithoutOperator\\MultiplicationWithoutOperator.csproj|solutionrelative:multiplicationwithoutoperator\\consecutivesummultiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsecutiveSumMultiplication.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\MultiplicationWithoutOperator\\MultiplicationWithoutOperator\\ConsecutiveSumMultiplication.cs",
+              "RelativeDocumentMoniker": "MultiplicationWithoutOperator\\ConsecutiveSumMultiplication.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\MultiplicationWithoutOperator\\MultiplicationWithoutOperator\\ConsecutiveSumMultiplication.cs",
+              "RelativeToolTip": "MultiplicationWithoutOperator\\ConsecutiveSumMultiplication.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:16:10.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

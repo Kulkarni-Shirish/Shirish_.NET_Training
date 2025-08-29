@@ -1,0 +1,15 @@
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\obj\Debug\net8.0\MultiplicationWithoutOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\obj\Debug\net8.0\MultiplicationWithoutOperator.AssemblyInfoInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\obj\Debug\net8.0\MultiplicationWithoutOperator.AssemblyInfo.cs
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\obj\Debug\net8.0\MultiplicationWithoutOperator.csproj.CoreCompileInputs.cache
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\obj\Debug\net8.0\MultiplicationWithoutOperator.sourcelink.json
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\bin\Debug\net8.0\MultiplicationWithoutOperator.exe
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\bin\Debug\net8.0\MultiplicationWithoutOperator.deps.json
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\bin\Debug\net8.0\MultiplicationWithoutOperator.runtimeconfig.json
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\bin\Debug\net8.0\MultiplicationWithoutOperator.dll
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\bin\Debug\net8.0\MultiplicationWithoutOperator.pdb
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\obj\Debug\net8.0\MultiplicationWithoutOperator.dll
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\obj\Debug\net8.0\refint\MultiplicationWithoutOperator.dll
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\obj\Debug\net8.0\MultiplicationWithoutOperator.pdb
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\obj\Debug\net8.0\MultiplicationWithoutOperator.genruntimeconfig.cache
+C:\Users\kshirish\Desktop\Task_Project\MultiplicationWithoutOperator\MultiplicationWithoutOperator\obj\Debug\net8.0\ref\MultiplicationWithoutOperator.dll
