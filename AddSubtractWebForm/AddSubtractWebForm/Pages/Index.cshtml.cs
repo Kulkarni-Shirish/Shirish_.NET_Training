@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace AddSubtractWebForm.Pages
 {
-//IndeModel is the code-behind for Index.cshtml 
+//IndexModel is the code-behind for Index.cshtml 
     public class IndexModel : PageModel
     {
     //BindProperty automatically bind values from Razor Page to this properties
