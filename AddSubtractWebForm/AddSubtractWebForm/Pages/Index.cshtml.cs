@@ -3,8 +3,10 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace AddSubtractWebForm.Pages
 {
+//IndeModel is the code-behind for Index.cshtml 
     public class IndexModel : PageModel
     {
+    //BindProperty automatically bind values from Razor Page to this properties
         [BindProperty]
        public int Num1 { get; set; }
         [BindProperty]
@@ -12,6 +14,7 @@ namespace AddSubtractWebForm.Pages
         [BindProperty]
         public string Operation {  get; set; }
         public int Result { get; set; }
+        //Executes when the form is submitted
         public void OnPost()
         {
             if (Operation == "add")
