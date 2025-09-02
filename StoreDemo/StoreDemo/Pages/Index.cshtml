@@ -1,0 +1,31 @@
+﻿@page
+@model StoreDemo.Pages.IndexModel
+@{
+    ViewData["Title"] = "Store Demo";
+}
+
+<h2>Select a Product</h2>
+
+<form method="post">
+    <label>Select an Item:</label>
+    <select asp-for="SelectedItem" asp-items="Model.Items"></select>
+    <br /><br />
+    <button type="submit" name="action" value="showPrice">Show Price</button>
+</form>
+
+<hr />
+
+@if (!string.IsNullOrEmpty(Model.SelectedImage))
+{
+    <div>
+        <h3>You selected: @Model.SelectedItem</h3>
+        <img src="~/images/@Model.SelectedImage" alt="@Model.SelectedItem" width="150" />
+    </div>
+}
+
+@if (Model.Price > 0)
+{
+    <div>
+        <h3>Price: ₹@Model.Price</h3>
+    </div>
+}
