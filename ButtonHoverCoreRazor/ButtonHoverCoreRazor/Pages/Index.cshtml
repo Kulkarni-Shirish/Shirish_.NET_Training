@@ -1,0 +1,22 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<h2>ASP.NET Core Razor Pages Hover Button </h2>
+<button class="hover-btn">Click Me </button>
+<style>
+    .hover-btn{
+        background-color:green;
+        color:white;
+        width:80px;
+        height:35px;
+        border:none;
+        cursor:pointer;
+    }
+    .hover-btn:hover{
+        background-color:yellow;
+        color:black;
+    }
+</style>
