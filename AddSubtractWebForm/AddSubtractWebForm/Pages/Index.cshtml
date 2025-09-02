@@ -1,10 +1,12 @@
 ﻿@page
 @model IndexModel
 @{
+//Setting the page Title
     ViewData["Title"] = "Add or Subtract";
 }
 
 <h2>Enter two Numbers:</h2>
+<!--Form send user input to server-->
 <form method="post">
     <input type="number" name="num1" placeholder="first number required" />
     <input type="number" name="num2" placeholder="second number required" />
@@ -13,8 +15,10 @@
         <option value="subtract">Subtract</option>
 
     </select>
+<!--Button to Calculate-->
     <button type ="submit">Calculate</button>
 </form>
+<!--Show result only if available-->
 @if (Model.Result != null)
 {
     <h3>Result: @Model.Result</h3>
