@@ -1,0 +1,21 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Add or Subtract";
+}
+
+<h2>Enter two Numbers:</h2>
+<form method="post">
+    <input type="number" name="num1" placeholder="first number required" />
+    <input type="number" name="num2" placeholder="second number required" />
+    <select name="operation">
+        <option value="add">Add</option>
+        <option value="subtract">Subtract</option>
+
+    </select>
+    <button type ="submit">Calculate</button>
+</form>
+@if (Model.Result != null)
+{
+    <h3>Result: @Model.Result</h3>
+}
