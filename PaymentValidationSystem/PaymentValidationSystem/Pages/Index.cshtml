@@ -1,0 +1,46 @@
+﻿@page
+@model PaymentValidationSystem.Pages.IndexModel
+@{
+    ViewData["Title"] = "Payment Form";
+}
+<!--Payment input form-->
+<h2 class="text-primary">Payment Form</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="Payment.Username"></label>
+        <input asp-for="Payment.Username" class="form-control" />
+        <span asp-validation-for="Payment.Username" class="text-danger"></span>
+    </div>
+    <!--Dropdown for payment mode-->
+    <div class="form-group">
+        <label asp-for="Payment.PaymentMode"></label>
+        <select asp-for="Payment.PaymentMode" class="form-control">
+            <option value="">-- Select Payment Mode --</option>
+            <option>Credit Card</option>
+            <option>UPI</option>
+            <option>NetBanking</option>
+            <option>Cash</option>
+        </select>
+        <span asp-validation-for="Payment.PaymentMode" class="text-danger"></span>
+    </div>
+    <!--CreditCard Number Field-->
+    <div class="form-group">
+        <label asp-for="Payment.CreditCardNumber"></label>
+        <input asp-for="Payment.CreditCardNumber" class="form-control" />
+        <span asp-validation-for="Payment.CreditCardNumber" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<!--Display Success message after form submission-->
+@if (Model.Message != null)
+{
+    <div class="alert alert-success mt-3">
+        @Model.Message
+    </div>
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
