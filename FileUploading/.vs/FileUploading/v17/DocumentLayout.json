@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FileUploading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E47F031-FA53-4768-ACCF-ACF816466687}|FileUploading\\FileUploading.csproj|C:\\Users\\kshirish\\Desktop\\Task_Project\\FileUploading\\fileuploading\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E47F031-FA53-4768-ACCF-ACF816466687}|FileUploading\\FileUploading.csproj|solutionrelative:fileuploading\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E47F031-FA53-4768-ACCF-ACF816466687}|FileUploading\\FileUploading.csproj|c:\\users\\kshirish\\desktop\\task_project\\fileuploading\\fileuploading\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E47F031-FA53-4768-ACCF-ACF816466687}|FileUploading\\FileUploading.csproj|solutionrelative:fileuploading\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E47F031-FA53-4768-ACCF-ACF816466687}|FileUploading\\FileUploading.csproj|C:\\Users\\kshirish\\Desktop\\Task_Project\\FileUploading\\fileuploading\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2E47F031-FA53-4768-ACCF-ACF816466687}|FileUploading\\FileUploading.csproj|solutionrelative:fileuploading\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FileUploading\\FileUploading\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "FileUploading\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FileUploading\\FileUploading\\Default.aspx.designer.cs",
+              "RelativeToolTip": "FileUploading\\Default.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:30:02.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FileUploading\\FileUploading\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "FileUploading\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FileUploading\\FileUploading\\Default.aspx.cs",
+              "RelativeToolTip": "FileUploading\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:26:56.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FileUploading\\FileUploading\\Default.aspx",
+              "RelativeDocumentMoniker": "FileUploading\\Default.aspx",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FileUploading\\FileUploading\\Default.aspx",
+              "RelativeToolTip": "FileUploading\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-09-04T11:25:41.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
