@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "MathWebApi.Controllers.MathController",
+    "Method": "Add",
+    "RelativePath": "api/Math/Add",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num1",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "num2",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MathWebApi.Controllers.MathController",
+    "Method": "Multiply",
+    "RelativePath": "api/Math/Multiply",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num1",
+        "Type": "System.Double",
+        "IsRequired": false
+      },
+      {
+        "Name": "num2",
+        "Type": "System.Double",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
