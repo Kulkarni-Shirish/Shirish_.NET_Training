@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Home Page"; // Sets the page title dynamically for the browser tab
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title</title>
+    <style>
+        /* Style for the button: green background, white text, smooth transition */
+        .color-button {
+            background-color: green;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease; /* smooth color change effect */
+        }
+
+            /* Hover effect: changes the button color to yellow and text to black */
+            .color-button:hover {
+                background-color: yellow;
+                color: black; /* improves contrast when hovering */
+            }
+    </style>
+</head>
+<body>
+    <div style="margin: 50px;">
+        <h2>Button Hover Example in ASP.NET MVC</h2>
+        <!-- Button that changes color when the user hovers the mouse over it -->
+        <button class="color-button">Hover Me!</button>
+    </div>
+</body>
+</html>
