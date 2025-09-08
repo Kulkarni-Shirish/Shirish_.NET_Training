@@ -1,0 +1,33 @@
+﻿@model AddSubtractMvc.Models.CalculatorViewModel
+
+@{
+    ViewBag.Title = "AddSub - Calculator"; // Sets the page title dynamically
+}
+
+<h2>Simple Add/Subtract Calculator</h2>
+
+<form asp-action="Index" method="post">
+    <div>
+        <label>Number 1:</label>
+        <input asp-for="Number1" type="number" required /> <!-- Input for the first number -->
+    </div>
+    <div>
+        <label>Number 2:</label>
+        <input asp-for="Number2" type="number" required /> <!-- Input for the second number -->
+    </div>
+    <div>
+        <label>Operation:</label>
+        <select asp-for="Operation" required> <!-- Dropdown to select Add or Subtract -->
+            <option value="Add">Add</option>
+            <option value="Subtract">Subtract</option>
+        </select>
+    </div>
+    <div style="margin-top:10px;">
+        <button type="submit">Calculate</button>
+    </div>
+</form>
+
+@if (Model.Result != null)
+{
+    <h3>Result: @Model.Result</h3> <!-- Display the calculation result if available -->
+}

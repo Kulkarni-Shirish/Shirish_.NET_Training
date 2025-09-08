@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\addsubtractmvc\\addsubtractmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|solutionrelative:addsubtractmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\addsubtractmvc\\addsubtractmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|solutionrelative:addsubtractmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\addsubtractmvc\\addsubtractmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|solutionrelative:addsubtractmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\addsubtractmvc\\addsubtractmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|solutionrelative:addsubtractmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\addsubtractmvc\\addsubtractmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|solutionrelative:addsubtractmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\addsubtractmvc\\addsubtractmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|solutionrelative:addsubtractmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\addsubtractmvc\\addsubtractmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|solutionrelative:addsubtractmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\addsubtractmvc\\addsubtractmvc\\models\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|solutionrelative:addsubtractmvc\\models\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\addsubtractmvc\\addsubtractmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B73DD5B2-5D89-4797-A384-8CBE5C099552}|AddSubtractMvc\\AddSubtractMvc.csproj|solutionrelative:addsubtractmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AddSubtractMvc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AddSubtractMvc\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T11:55:46.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AddSubtractMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AddSubtractMvc\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T11:55:44.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AddSubtractMvc\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AddSubtractMvc\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T11:55:42.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AddSubtractMvc\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AddSubtractMvc\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T11:55:41.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AddSubtractMvc\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AddSubtractMvc\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T11:55:40.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AddSubtractMvc\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AddSubtractMvc\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:53:41.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Models\\CalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "AddSubtractMvc\\Models\\CalculatorViewModel.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Models\\CalculatorViewModel.cs",
+              "RelativeToolTip": "AddSubtractMvc\\Models\\CalculatorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:50:17.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AddSubtractMvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AddSubtractMvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T11:47:17.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AddSubtractMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\AddSubtractMvc\\AddSubtractMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AddSubtractMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T11:47:01.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
