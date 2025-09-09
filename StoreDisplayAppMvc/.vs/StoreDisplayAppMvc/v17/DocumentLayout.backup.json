@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BBB082-BD0F-4006-943F-404A7E2C9445}|StoreDisplayAppMvc\\StoreDisplayAppMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\storedisplayappmvc\\storedisplayappmvc\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BBB082-BD0F-4006-943F-404A7E2C9445}|StoreDisplayAppMvc\\StoreDisplayAppMvc.csproj|solutionrelative:storedisplayappmvc\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BBB082-BD0F-4006-943F-404A7E2C9445}|StoreDisplayAppMvc\\StoreDisplayAppMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\storedisplayappmvc\\storedisplayappmvc\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BBB082-BD0F-4006-943F-404A7E2C9445}|StoreDisplayAppMvc\\StoreDisplayAppMvc.csproj|solutionrelative:storedisplayappmvc\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BBB082-BD0F-4006-943F-404A7E2C9445}|StoreDisplayAppMvc\\StoreDisplayAppMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\storedisplayappmvc\\storedisplayappmvc\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BBB082-BD0F-4006-943F-404A7E2C9445}|StoreDisplayAppMvc\\StoreDisplayAppMvc.csproj|solutionrelative:storedisplayappmvc\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BBB082-BD0F-4006-943F-404A7E2C9445}|StoreDisplayAppMvc\\StoreDisplayAppMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\storedisplayappmvc\\storedisplayappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BBB082-BD0F-4006-943F-404A7E2C9445}|StoreDisplayAppMvc\\StoreDisplayAppMvc.csproj|solutionrelative:storedisplayappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BBB082-BD0F-4006-943F-404A7E2C9445}|StoreDisplayAppMvc\\StoreDisplayAppMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\storedisplayappmvc\\storedisplayappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A3BBB082-BD0F-4006-943F-404A7E2C9445}|StoreDisplayAppMvc\\StoreDisplayAppMvc.csproj|solutionrelative:storedisplayappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3BBB082-BD0F-4006-943F-404A7E2C9445}|StoreDisplayAppMvc\\StoreDisplayAppMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\storedisplayappmvc\\storedisplayappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3BBB082-BD0F-4006-943F-404A7E2C9445}|StoreDisplayAppMvc\\StoreDisplayAppMvc.csproj|solutionrelative:storedisplayappmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\StoreDisplayAppMvc\\Program.cs",
+              "RelativeDocumentMoniker": "StoreDisplayAppMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\StoreDisplayAppMvc\\Program.cs",
+              "RelativeToolTip": "StoreDisplayAppMvc\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T08:02:34.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\StoreDisplayAppMvc\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreDisplayAppMvc\\Views\\Store\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\StoreDisplayAppMvc\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "StoreDisplayAppMvc\\Views\\Store\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T07:58:37.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\StoreDisplayAppMvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StoreDisplayAppMvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\StoreDisplayAppMvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StoreDisplayAppMvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:45:51.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\StoreDisplayAppMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreDisplayAppMvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\StoreDisplayAppMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StoreDisplayAppMvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T07:40:31.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\StoreDisplayAppMvc\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "StoreDisplayAppMvc\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\StoreDisplayAppMvc\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "StoreDisplayAppMvc\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:38:52.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\StoreDisplayAppMvc\\Models\\Items.cs",
+              "RelativeDocumentMoniker": "StoreDisplayAppMvc\\Models\\Items.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\StoreDisplayAppMvc\\StoreDisplayAppMvc\\Models\\Items.cs",
+              "RelativeToolTip": "StoreDisplayAppMvc\\Models\\Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:38:06.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

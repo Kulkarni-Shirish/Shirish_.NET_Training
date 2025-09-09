@@ -1,0 +1,50 @@
+﻿@model List<StoreDisplayAppMvc.Models.Item>
+
+<h2>Store Items</h2>
+
+<!-- ListBox that displays all store items -->
+<select id="itemList" size="5" style="width:200px;">
+    @foreach (var item in Model)
+    {
+        <!-- Each option stores item name, image URL, and price as attributes -->
+        <option value="@item.Name" data-image="@item.ImageUrl" data-price="@item.Price">
+            @item.Name
+        </option>
+    }
+</select>
+
+<br />
+<br />
+
+<!-- Button that shows the price of the selected item -->
+<button id="showPriceBtn">Show Price</button>
+<br />
+<br />
+<label id="priceLabel">Price: </label>
+<br />
+<br />
+<img id="itemImage" src="" alt="Item Image" style="width:300px;height:200px;border:1px solid black;" />
+
+<script>
+    const itemList = document.getElementById("itemList");
+    const itemImage = document.getElementById("itemImage");
+    const showPriceBtn = document.getElementById("showPriceBtn");
+    const priceLabel = document.getElementById("priceLabel");
+
+    // When user changes the selection, update the image preview
+    itemList.addEventListener("change", function () {
+        const selectedOption = itemList.options[itemList.selectedIndex];
+        itemImage.src = selectedOption.getAttribute("data-image");
+        priceLabel.textContent = "Price: ";
+    });
+
+    // When user clicks the button, display the price of the selected item
+    showPriceBtn.addEventListener("click", function () {
+        const selectedOption = itemList.options[itemList.selectedIndex];
+        if (selectedOption) {
+            priceLabel.textContent = "Price: $" + selectedOption.getAttribute("data-price");
+        } else {
+            priceLabel.textContent = "Please select an item first.";
+        }
+    });
+</script>
