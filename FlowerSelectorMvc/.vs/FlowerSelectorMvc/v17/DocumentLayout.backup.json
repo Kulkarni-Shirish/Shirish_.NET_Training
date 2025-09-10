@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FlowerSelectorMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0543CBB-2A91-4E21-A91E-C2E0F4A2EBFA}|FlowerSelectorMvc\\FlowerSelectorMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\flowerselectormvc\\flowerselectormvc\\views\\flower\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0543CBB-2A91-4E21-A91E-C2E0F4A2EBFA}|FlowerSelectorMvc\\FlowerSelectorMvc.csproj|solutionrelative:flowerselectormvc\\views\\flower\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0543CBB-2A91-4E21-A91E-C2E0F4A2EBFA}|FlowerSelectorMvc\\FlowerSelectorMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\flowerselectormvc\\flowerselectormvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0543CBB-2A91-4E21-A91E-C2E0F4A2EBFA}|FlowerSelectorMvc\\FlowerSelectorMvc.csproj|solutionrelative:flowerselectormvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0543CBB-2A91-4E21-A91E-C2E0F4A2EBFA}|FlowerSelectorMvc\\FlowerSelectorMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\flowerselectormvc\\flowerselectormvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0543CBB-2A91-4E21-A91E-C2E0F4A2EBFA}|FlowerSelectorMvc\\FlowerSelectorMvc.csproj|solutionrelative:flowerselectormvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0543CBB-2A91-4E21-A91E-C2E0F4A2EBFA}|FlowerSelectorMvc\\FlowerSelectorMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\flowerselectormvc\\flowerselectormvc\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0543CBB-2A91-4E21-A91E-C2E0F4A2EBFA}|FlowerSelectorMvc\\FlowerSelectorMvc.csproj|solutionrelative:flowerselectormvc\\controllers\\flowercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0543CBB-2A91-4E21-A91E-C2E0F4A2EBFA}|FlowerSelectorMvc\\FlowerSelectorMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\flowerselectormvc\\flowerselectormvc\\models\\flowerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0543CBB-2A91-4E21-A91E-C2E0F4A2EBFA}|FlowerSelectorMvc\\FlowerSelectorMvc.csproj|solutionrelative:flowerselectormvc\\models\\flowerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FlowerSelectorMvc\\FlowerSelectorMvc\\Views\\Flower\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlowerSelectorMvc\\Views\\Flower\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FlowerSelectorMvc\\FlowerSelectorMvc\\Views\\Flower\\Index.cshtml*",
+              "RelativeToolTip": "FlowerSelectorMvc\\Views\\Flower\\Index.cshtml*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T12:12:50.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FlowerSelectorMvc\\FlowerSelectorMvc\\Program.cs",
+              "RelativeDocumentMoniker": "FlowerSelectorMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FlowerSelectorMvc\\FlowerSelectorMvc\\Program.cs",
+              "RelativeToolTip": "FlowerSelectorMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:10:01.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FlowerSelectorMvc\\FlowerSelectorMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FlowerSelectorMvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FlowerSelectorMvc\\FlowerSelectorMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FlowerSelectorMvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T12:09:30.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlowerController.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FlowerSelectorMvc\\FlowerSelectorMvc\\Controllers\\FlowerController.cs",
+              "RelativeDocumentMoniker": "FlowerSelectorMvc\\Controllers\\FlowerController.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FlowerSelectorMvc\\FlowerSelectorMvc\\Controllers\\FlowerController.cs",
+              "RelativeToolTip": "FlowerSelectorMvc\\Controllers\\FlowerController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:09:02.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlowerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FlowerSelectorMvc\\FlowerSelectorMvc\\Models\\FlowerViewModel.cs",
+              "RelativeDocumentMoniker": "FlowerSelectorMvc\\Models\\FlowerViewModel.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\FlowerSelectorMvc\\FlowerSelectorMvc\\Models\\FlowerViewModel.cs",
+              "RelativeToolTip": "FlowerSelectorMvc\\Models\\FlowerViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T12:08:25.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
