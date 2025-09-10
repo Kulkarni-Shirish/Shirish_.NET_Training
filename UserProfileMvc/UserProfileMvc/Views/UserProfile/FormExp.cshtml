@@ -1,0 +1,65 @@
+﻿@model UserProfileMvc.Models.UserProfile
+@{
+    ViewData["Title"] = "User Profile Form";
+}
+
+<h2>User Profile Form</h2>
+
+<form asp-action="FormExp" method="post">
+    <!-- Name -->
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <!-- Address -->
+    <div>
+        <label asp-for="Address"></label>
+        <input asp-for="Address" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+
+    <!-- Date -->
+    <div>
+        <label asp-for="Date"></label>
+        <input asp-for="Date" type="date" min="1900-01-01" max="2090-01-01" />
+        <span asp-validation-for="Date" class="text-danger"></span>
+    </div>
+
+    <!-- Nationality -->
+    <div>
+        <label asp-for="Nationality"></label>
+        <input asp-for="Nationality" />
+        <span asp-validation-for="Nationality" class="text-danger"></span>
+    </div>
+
+    <!-- Country Preferred -->
+    <div>
+        <label asp-for="CountryPreferred"></label>
+        <select asp-for="CountryPreferred" asp-items="@(new SelectList(ViewBag.Countries))">
+            <option value="">--Select Country--</option>
+        </select>
+        <span asp-validation-for="CountryPreferred" class="text-danger"></span>
+    </div>
+
+    <!-- Skill Sets -->
+    <div>
+        <label asp-for="SkillSets"></label>
+        <input asp-for="SkillSets" />
+        <span asp-validation-for="SkillSets" class="text-danger"></span>
+    </div>
+
+    <div>
+        <button type="submit">Submit</button>
+    </div>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <p style="color:green">@ViewBag.Message</p>
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

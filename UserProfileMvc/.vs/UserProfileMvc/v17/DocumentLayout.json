@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserProfileMvc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2BE136-46DC-43EC-AA8D-D2CD5F4FAB53}|UserProfileMvc\\UserProfileMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\userprofilemvc\\userprofilemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2BE136-46DC-43EC-AA8D-D2CD5F4FAB53}|UserProfileMvc\\UserProfileMvc.csproj|solutionrelative:userprofilemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2BE136-46DC-43EC-AA8D-D2CD5F4FAB53}|UserProfileMvc\\UserProfileMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\userprofilemvc\\userprofilemvc\\views\\userprofile\\formexp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E2BE136-46DC-43EC-AA8D-D2CD5F4FAB53}|UserProfileMvc\\UserProfileMvc.csproj|solutionrelative:userprofilemvc\\views\\userprofile\\formexp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2BE136-46DC-43EC-AA8D-D2CD5F4FAB53}|UserProfileMvc\\UserProfileMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\userprofilemvc\\userprofilemvc\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2BE136-46DC-43EC-AA8D-D2CD5F4FAB53}|UserProfileMvc\\UserProfileMvc.csproj|solutionrelative:userprofilemvc\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2BE136-46DC-43EC-AA8D-D2CD5F4FAB53}|UserProfileMvc\\UserProfileMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\userprofilemvc\\userprofilemvc\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2BE136-46DC-43EC-AA8D-D2CD5F4FAB53}|UserProfileMvc\\UserProfileMvc.csproj|solutionrelative:userprofilemvc\\controllers\\userprofilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2BE136-46DC-43EC-AA8D-D2CD5F4FAB53}|UserProfileMvc\\UserProfileMvc.csproj|c:\\users\\kshirish\\desktop\\task_project\\userprofilemvc\\userprofilemvc\\validations\\dateinrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2BE136-46DC-43EC-AA8D-D2CD5F4FAB53}|UserProfileMvc\\UserProfileMvc.csproj|solutionrelative:userprofilemvc\\validations\\dateinrangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DateInRangeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserProfileMvc\\UserProfileMvc\\Validations\\DateInRangeAttribute.cs",
+              "RelativeDocumentMoniker": "UserProfileMvc\\Validations\\DateInRangeAttribute.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserProfileMvc\\UserProfileMvc\\Validations\\DateInRangeAttribute.cs",
+              "RelativeToolTip": "UserProfileMvc\\Validations\\DateInRangeAttribute.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:31:27.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserProfileMvc\\UserProfileMvc\\Program.cs",
+              "RelativeDocumentMoniker": "UserProfileMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserProfileMvc\\UserProfileMvc\\Program.cs",
+              "RelativeToolTip": "UserProfileMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:23:13.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormExp.cshtml",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserProfileMvc\\UserProfileMvc\\Views\\UserProfile\\FormExp.cshtml",
+              "RelativeDocumentMoniker": "UserProfileMvc\\Views\\UserProfile\\FormExp.cshtml",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserProfileMvc\\UserProfileMvc\\Views\\UserProfile\\FormExp.cshtml",
+              "RelativeToolTip": "UserProfileMvc\\Views\\UserProfile\\FormExp.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T11:22:54.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserProfileMvc\\UserProfileMvc\\Controllers\\UserProfileController.cs",
+              "RelativeDocumentMoniker": "UserProfileMvc\\Controllers\\UserProfileController.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserProfileMvc\\UserProfileMvc\\Controllers\\UserProfileController.cs",
+              "RelativeToolTip": "UserProfileMvc\\Controllers\\UserProfileController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:14:33.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserProfileMvc\\UserProfileMvc\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "UserProfileMvc\\Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserProfileMvc\\UserProfileMvc\\Models\\UserProfile.cs",
+              "RelativeToolTip": "UserProfileMvc\\Models\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T11:13:45.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
