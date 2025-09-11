@@ -1,0 +1,44 @@
+﻿@model EmployeeLeaveSystem.Models.LeaveRequest
+
+@{
+    ViewData["Title"] = "Leave Details"; // Set page title
+}
+
+<h2>Leave Details</h2>
+
+<!-- Card to display leave information -->
+<div class="card p-3 shadow-sm">
+    <!-- Employee name and email -->
+    <p><b>Employee:</b> @Model.Employee?.FullName (@Model.Employee?.Email)</p>
+
+    <!-- Leave start and end dates -->
+    <p><b>Start Date:</b> @Model.StartDate.ToShortDateString()</p>
+    <p><b>End Date:</b> @Model.EndDate.ToShortDateString()</p>
+
+    <!-- Reason for leave -->
+    <p><b>Reason:</b> @Model.Reason</p>
+
+    <!-- Leave status with conditional badge styling -->
+    <p>
+        <b>Status:</b>
+        @if (Model.Status == "Pending")
+        {
+            <span class="badge bg-warning text-dark">Pending</span>
+        }
+        else if (Model.Status == "Approved")
+        {
+            <span class="badge bg-success">Approved</span>
+        }
+        else if (Model.Status == "Rejected")
+        {
+            <span class="badge bg-danger">Rejected</span>
+        }
+        else
+        {
+            @Model.Status
+        }
+    </p>
+</div>
+
+<!-- Button to return to leave list -->
+<a asp-action="List" class="btn btn-secondary mt-3">Back to List</a>

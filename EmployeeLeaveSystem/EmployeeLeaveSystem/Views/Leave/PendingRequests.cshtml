@@ -1,0 +1,42 @@
+﻿@model IEnumerable<EmployeeLeaveSystem.Models.LeaveRequest>
+
+<h2 class="mb-4">Pending Leave Requests</h2>
+
+<!-- Table to list all pending leave requests -->
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Employee</th>
+            <th>Start Date</th>
+            <th>End Date</th>
+            <th>Reason</th>
+            <th>Status</th>
+            <th>Action</th> <!-- Approve/Reject actions -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var leave in Model)
+        {
+            <tr>
+                <!-- Employee name and email -->
+                <td>@leave.Employee?.FullName (@leave.Employee?.Email)</td>
+
+                <!-- Leave start and end dates -->
+                <td>@leave.StartDate.ToString("dd-MM-yyyy")</td>
+                <td>@leave.EndDate.ToString("dd-MM-yyyy")</td>
+
+                <!-- Reason for leave -->
+                <td>@leave.Reason</td>
+
+                <!-- Current status -->
+                <td>@leave.Status</td>
+
+                <!-- Action buttons for managers/admins -->
+                <td>
+                    <a asp-action="Approve" asp-route-id="@leave.Id" class="btn btn-success btn-sm">Approve</a>
+                    <a asp-action="Reject" asp-route-id="@leave.Id" class="btn btn-danger btn-sm">Reject</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

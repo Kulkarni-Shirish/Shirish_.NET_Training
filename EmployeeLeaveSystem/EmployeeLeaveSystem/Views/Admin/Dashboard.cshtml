@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard"; // Set page title
+}
+
+<!-- Container for admin dashboard content -->
+<div class="container mt-5">
+    <div class="card shadow-lg border-0 rounded-3">
+        <!-- Dashboard header -->
+        <div class="card-header bg-dark text-white">
+            <h3>Admin Dashboard</h3>
+        </div>
+
+        <!-- Dashboard body -->
+        <div class="card-body">
+            <p>Welcome, Admin! Here you can manage employee leave requests.</p>
+
+            <!-- List of admin actions -->
+            <ul class="list-group">
+                <li class="list-group-item">
+                    <!-- Link to review pending leave requests -->
+                    <a asp-controller="Leave" asp-action="PendingRequests">Review Pending Leave Requests</a>
+                </li>
+                <li class="list-group-item">
+                    <!-- Link to register a new employee -->
+                    <a asp-controller="Account" asp-action="Register">Create New Employee</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>

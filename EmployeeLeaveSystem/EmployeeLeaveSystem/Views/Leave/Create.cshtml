@@ -1,0 +1,61 @@
+﻿@model EmployeeLeaveSystem.Models.LeaveRequest
+
+@{
+    ViewData["Title"] = "Apply Leave"; // Set page title
+}
+
+<!-- Container for leave application form -->
+<div class="container mt-4">
+    <h2 class="text-primary mb-4">Apply Leave</h2>
+
+    <!-- Display error message from TempData if any -->
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+    }
+
+    <!-- Leave application form -->
+    <form asp-action="Create" method="post" class="shadow p-4 rounded bg-light">
+        @Html.AntiForgeryToken() <!-- Prevent CSRF attacks -->
+        <!-- Display validation summary -->
+        <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+        <!-- Start Date input -->
+        <div class="form-group mb-3">
+            <label asp-for="StartDate" class="form-label fw-bold"></label>
+            <input asp-for="StartDate" class="form-control" type="date" />
+            <span asp-validation-for="StartDate" class="text-danger"></span>
+        </div>
+
+        <!-- End Date input -->
+        <div class="form-group mb-3">
+            <label asp-for="EndDate" class="form-label fw-bold"></label>
+            <input asp-for="EndDate" class="form-control" type="date" />
+            <span asp-validation-for="EndDate" class="text-danger"></span>
+        </div>
+
+        <!-- Reason textarea -->
+        <div class="form-group mb-4">
+            <label asp-for="Reason" class="form-label fw-bold"></label>
+            <textarea asp-for="Reason" class="form-control" rows="3"></textarea>
+            <span asp-validation-for="Reason" class="text-danger"></span>
+        </div>
+
+        <!-- Form action buttons -->
+        <div class="d-flex justify-content-between">
+            <!-- Cancel button -->
+            <a asp-action="List" class="btn btn-secondary">
+                <i class="bi bi-arrow-left"></i> Cancel
+            </a>
+
+            <!-- Submit button -->
+            <button type="submit" class="btn btn-primary">
+                <i class="bi bi-send-fill"></i> Submit
+            </button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial") <!-- Include client-side validation scripts -->
+}

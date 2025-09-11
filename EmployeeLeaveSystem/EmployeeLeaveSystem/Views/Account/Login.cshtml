@@ -1,0 +1,54 @@
+﻿@model EmployeeLeaveSystem.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login"; // Set page title
+}
+
+<!-- Centered login form -->
+<div class="row justify-content-center mt-5">
+    <div class="col-md-5">
+        <div class="card shadow-lg rounded-3 border-0">
+            <div class="card-body p-4">
+                <h3 class="text-center mb-4">Login</h3>
+
+                <form asp-action="Login" method="post">
+                    @Html.AntiForgeryToken() <!-- Prevent CSRF attacks -->
+                    <!-- Display validation errors -->
+                    <div asp-validation-summary="All" class="text-danger"></div>
+
+                    <!-- Email input field -->
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <!-- Password input field -->
+                    <div class="mb-3">
+                        <label asp-for="Password" class="form-label"></label>
+                        <input asp-for="Password" type="password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                    <!-- Remember Me checkbox -->
+                    <div class="form-check mb-3">
+                        <input asp-for="RememberMe" class="form-check-input" />
+                        <label asp-for="RememberMe" class="form-check-label"></label>
+                    </div>
+
+                    <!-- Submit button -->
+                    <button type="submit" class="btn btn-primary w-100 mb-3">Login</button>
+
+                    <!-- Forgot Password link -->
+                    <div class="text-center">
+                        <a asp-controller="Account" asp-action="ForgotPassword">Forgot your password?</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @await Html.PartialAsync("_ValidationScriptsPartial") <!-- Include validation scripts -->
+}

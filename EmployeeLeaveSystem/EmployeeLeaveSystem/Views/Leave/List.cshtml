@@ -1,0 +1,66 @@
+﻿@model IEnumerable<EmployeeLeaveSystem.Models.LeaveRequest>
+
+@{
+    ViewData["Title"] = "My Leaves"; // Set page title
+}
+
+<h2>My Leaves</h2>
+
+<!-- Display success message from TempData if any -->
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+<!-- Table to list all leave requests -->
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Start</th>
+            <th>End</th>
+            <th>Reason</th>
+            <th>Status</th>
+            <th></th> <!-- Actions column -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <!-- Leave start and end dates -->
+                <td>@item.StartDate.ToShortDateString()</td>
+                <td>@item.EndDate.ToShortDateString()</td>
+
+                <!-- Leave reason -->
+                <td>@item.Reason</td>
+
+                <!-- Leave status with badge -->
+                <td>
+                    @if (item.Status == "Pending")
+                    {
+                        <span class="badge bg-warning text-dark">Pending</span>
+                    }
+                    else if (item.Status == "Approved")
+                    {
+                        <span class="badge bg-success">Approved</span>
+                    }
+                    else if (item.Status == "Rejected")
+                    {
+                        <span class="badge bg-danger">Rejected</span>
+                    }
+                    else
+                    {
+                        @item.Status
+                    }
+                </td>
+
+                <!-- Details button -->
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
