@@ -1,0 +1,6 @@
+@UserPortalAuthAPI_HostAddress = http://localhost:5116
+
+GET {{UserPortalAuthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

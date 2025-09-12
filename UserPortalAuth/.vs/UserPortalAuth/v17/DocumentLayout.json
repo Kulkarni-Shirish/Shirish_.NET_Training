@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}|UserPortalAuthUI\\UserPortalAuthUI.csproj|c:\\users\\kshirish\\desktop\\task_project\\userportalauth\\userportalauthui\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}|UserPortalAuthUI\\UserPortalAuthUI.csproj|solutionrelative:userportalauthui\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}|UserPortalAuthUI\\UserPortalAuthUI.csproj|c:\\users\\kshirish\\desktop\\task_project\\userportalauth\\userportalauthui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}|UserPortalAuthUI\\UserPortalAuthUI.csproj|solutionrelative:userportalauthui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}|UserPortalAuthUI\\UserPortalAuthUI.csproj|c:\\users\\kshirish\\desktop\\task_project\\userportalauth\\userportalauthui\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}|UserPortalAuthUI\\UserPortalAuthUI.csproj|solutionrelative:userportalauthui\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}|UserPortalAuthUI\\UserPortalAuthUI.csproj|c:\\users\\kshirish\\desktop\\task_project\\userportalauth\\userportalauthui\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}|UserPortalAuthUI\\UserPortalAuthUI.csproj|solutionrelative:userportalauthui\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}|UserPortalAuthUI\\UserPortalAuthUI.csproj|c:\\users\\kshirish\\desktop\\task_project\\userportalauth\\userportalauthui\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}|UserPortalAuthUI\\UserPortalAuthUI.csproj|solutionrelative:userportalauthui\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}|UserPortalAuthAPI\\UserPortalAuthAPI.csproj|c:\\users\\kshirish\\desktop\\task_project\\userportalauth\\userportalauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}|UserPortalAuthAPI\\UserPortalAuthAPI.csproj|solutionrelative:userportalauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}|UserPortalAuthAPI\\UserPortalAuthAPI.csproj|c:\\users\\kshirish\\desktop\\task_project\\userportalauth\\userportalauthapi\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}|UserPortalAuthAPI\\UserPortalAuthAPI.csproj|solutionrelative:userportalauthapi\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}|UserPortalAuthAPI\\UserPortalAuthAPI.csproj|c:\\users\\kshirish\\desktop\\task_project\\userportalauth\\userportalauthapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}|UserPortalAuthAPI\\UserPortalAuthAPI.csproj|solutionrelative:userportalauthapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}|UserPortalAuthAPI\\UserPortalAuthAPI.csproj|c:\\users\\kshirish\\desktop\\task_project\\userportalauth\\userportalauthapi\\controllers\\protectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}|UserPortalAuthAPI\\UserPortalAuthAPI.csproj|solutionrelative:userportalauthapi\\controllers\\protectedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}|UserPortalAuthAPI\\UserPortalAuthAPI.csproj|c:\\users\\kshirish\\desktop\\task_project\\userportalauth\\userportalauthapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}|UserPortalAuthAPI\\UserPortalAuthAPI.csproj|solutionrelative:userportalauthapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}|UserPortalAuthAPI\\UserPortalAuthAPI.csproj|c:\\users\\kshirish\\desktop\\task_project\\userportalauth\\userportalauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}|UserPortalAuthAPI\\UserPortalAuthAPI.csproj|solutionrelative:userportalauthapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "UserPortalAuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthAPI\\Program.cs",
+              "RelativeToolTip": "UserPortalAuthAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:21:49.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthAPI\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "UserPortalAuthAPI\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthAPI\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "UserPortalAuthAPI\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:20:45.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthUI\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "UserPortalAuthUI\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthUI\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "UserPortalAuthUI\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:42:01.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthUI\\Models\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "UserPortalAuthUI\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthUI\\Models\\LoginResponse.cs",
+              "RelativeToolTip": "UserPortalAuthUI\\Models\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:42:31.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthUI\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "UserPortalAuthUI\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthUI\\Pages\\Login.cshtml",
+              "RelativeToolTip": "UserPortalAuthUI\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-12T12:35:57.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthUI\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "UserPortalAuthUI\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthUI\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "UserPortalAuthUI\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:36:31.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthUI\\Program.cs",
+              "RelativeDocumentMoniker": "UserPortalAuthUI\\Program.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthUI\\Program.cs",
+              "RelativeToolTip": "UserPortalAuthUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:36:52.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthAPI\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "UserPortalAuthAPI\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthAPI\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "UserPortalAuthAPI\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:20:07.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProtectedController.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthAPI\\Controllers\\ProtectedController.cs",
+              "RelativeDocumentMoniker": "UserPortalAuthAPI\\Controllers\\ProtectedController.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthAPI\\Controllers\\ProtectedController.cs",
+              "RelativeToolTip": "UserPortalAuthAPI\\Controllers\\ProtectedController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T13:01:26.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "UserPortalAuthAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "UserPortalAuthAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T12:21:14.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "UserPortalAuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\kshirish\\Desktop\\Task_Project\\UserPortalAuth\\UserPortalAuthAPI\\appsettings.json",
+              "RelativeToolTip": "UserPortalAuthAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-12T12:21:36.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

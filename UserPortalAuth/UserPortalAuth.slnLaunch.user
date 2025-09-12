@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "UserPortalAuthAPI\\UserPortalAuthAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "UserPortalAuthUI\\UserPortalAuthUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

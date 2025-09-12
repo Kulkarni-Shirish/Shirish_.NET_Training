@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserPortalAuthAPI", "UserPortalAuthAPI\UserPortalAuthAPI.csproj", "{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserPortalAuthUI", "UserPortalAuthUI\UserPortalAuthUI.csproj", "{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E82B7AB9-3F9E-4126-9C4B-3DFB6EDE297D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47DBCFB3-D8AC-4467-80CE-F47BBB67811B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45367D00-BE75-49E7-8A06-BE97101F2C9F}
+	EndGlobalSection
+EndGlobal
